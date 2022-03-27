@@ -1,0 +1,39 @@
+['Time Zone:', 'GMT+00:00']
+['IP Address:', '"192.168.1.2"']
+['Current Project Name:', 'project2']
+['Device Catalog Name:', '1756-L61/B LOGIX5561']
+['Revision No:', '20.019.098']
+['SD Card Files: ', '\\Logix\\CurrentApp\\project2.p5k', '\\Logix\\CurrentApp\\Executive.bin']
+['SD_Load_Mode', 'PROGRAM']
+['SD_Load_Image', 'USER_INITIATED']
+['Time since PLC restart: ', 889]
+['Desktop Name: ', 'DESKTOP-RSRBUGJ\\safe']
+<?xml version="1.0" encoding="UTF-8" ?>
+<Controller>
+<ExecutiveLoadOption>
+    <ExecFile>\Logix\CurrentApp\Executive.bin</ExecFile>
+</ExecutiveLoadOption>
+<ProgramLoadOption>
+    <ProgramLoadMode>USER_INITIATED</ProgramLoadMode>
+    <LoadFile>\Logix\CurrentApp\project2.p5k</LoadFile>
+</ProgramLoadOption>
+<ControllerModeOption>
+    <ControllerMode>PROGRAM</ControllerMode>
+</ControllerModeOption>
+<VersionControl>
+    <Version>02.020.019.098</Version>
+</VersionControl>
+<FirmwareSupervisor>
+    <UpdateMode>IN_ACTIVE</UpdateMode>
+</FirmwareSupervisor>
+</Controller>ring>
+			<ACproductNameString>LOGIX5561</ACproductNameString>
+            <HWMajorRevision>2</HWMajorRevision>
+            <HWMinorRevision>1</HWMinorRevision>
+		</DeviceIdentity>
+	</DeviceIdentities> 
+	<UserDTMemorySize>2097152</UserDTMemorySize>
+	<UserIOMemorySize>505856</UserIOMemorySize>
+</LogixController>
+
+['ControllerLog: ', [1, 'New project loaded: Name is : project2'], [2, 'PLC mode changed to RUN'], [3, 'PLC mode changed to PROG'], [4, 'New project loaded: Name is : THIS_IS_A_LENGTHY_NAME_FOR_CONTROLLER'], [5, 'New project loaded: Name is : ConName_OUR_CONTROLLER'], [6, 'PLC mode changed to RUN'], [7, 'PLC mode changed to PROG'], [8, 'New project loaded: Name is : ConName_OUR_CONTROLLER'], [9, 'PLC mode changed to RUN'], [10, 'PLC mode changed to TEST'], [11, 'PLC mode changed to PROG'], [12, 'PLC mode changed to RUN'], [13, 'PLC mode changed to PROG'], [14, 'New project loaded: Name is : project2'], [15, 'PLC mode changed to RUN'], [16, 'PLC mode changed to TEST'], [17, 'PLC mode changed to PROG'], [18, 'PLC mode changed to RUN'], [19, 'PLC mode changed to PROG']]

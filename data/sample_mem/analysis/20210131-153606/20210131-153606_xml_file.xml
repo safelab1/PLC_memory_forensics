@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Controller>
+<ExecutiveLoadOption>
+    <ExecFile>\Logix\CurrentApp\Executive.bin</ExecFile>
+</ExecutiveLoadOption>
+<ProgramLoadOption>
+    <ProgramLoadMode>USER_INITIATED</ProgramLoadMode>
+    <LoadFile>\Logix\CurrentApp\project2.p5k</LoadFile>
+</ProgramLoadOption>
+<ControllerModeOption>
+    <ControllerMode>PROGRAM</ControllerMode>
+</ControllerModeOption>
+<VersionControl>
+    <Version>02.020.019.098</Version>
+</VersionControl>
+<FirmwareSupervisor>
+    <UpdateMode>IN_ACTIVE</UpdateMode>
+</FirmwareSupervisor>
+</Controller>ring>
+			<ACproductNameString>LOGIX5561</ACproductNameString>
+            <HWMajorRevision>2</HWMajorRevision>
+            <HWMinorRevision>1</HWMinorRevision>
+		</DeviceIdentity>
+	</DeviceIdentities> 
+	<UserDTMemorySize>2097152</UserDTMemorySize>
+	<UserIOMemorySize>505856</UserIOMemorySize>
+</LogixController>

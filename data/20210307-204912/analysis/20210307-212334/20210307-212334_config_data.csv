@@ -1,0 +1,12 @@
+['Time Zone:', 'GMT+00:00']
+['IP Address:', '"192.168.1.2"']
+['Current Project Name:', 'controller2']
+['Device Catalog Name:', '1756-L61/B LOGIX5561']
+['Revision No:', '20.019.098']
+['SD Card Files: ', '\\Logix\\CurrentApp\\controller2.p5k', '\\Logix\\CurrentApp\\Executive.bin']
+['SD_Load_Mode', 'PROGRAM']
+['SD_Load_Image', 'USER_INITIATED']
+['Desktop Name: ', 'I-AM-ATTACKER\\unsafe']
+['xml file', ['<?xml version="1.0" encoding="UTF-8" ?>\n<Controller>\n<ExecutiveLoadOption>\n    <ExecFile>\\Logix\\CurrentApp\\Executive.bin</ExecFile>\n</ExecutiveLoadOption>\n<ProgramLoadOption>\n    <ProgramLoadMode>USER_INITIATED</ProgramLoadMode>\n    <LoadFile>\\Logix\\CurrentApp\\controller2.p5k</LoadFile>\n</ProgramLoadOption>\n<ControllerModeOption>\n    <ControllerMode>PROGRAM</ControllerMode>\n</ControllerModeOption>\n<VersionControl>\n    <Version>02.020.019.098</Version>\n</VersionControl>\n<FirmwareSupervisor>\n    <UpdateMode>IN_ACTIVE</UpdateMode>\n</FirmwareSupervisor>\n</Controller>g>\r\n\t\t\t<ACproductNameString>LOGIX5561</ACproductNameString>\r\n            <HWMajorRevision>2</HWMajorRevision>\r\n            <HWMinorRevision>1</HWMinorRevision>\r\n\t\t</DeviceIdentity>\r\n\t</DeviceIdentities> \r\n\t<UserDTMemorySize>2097152</UserDTMemorySize>\r\n\t<UserIOMemorySize>505856</UserIOMemorySize>\r\n</LogixController>\r\n']]
+
+

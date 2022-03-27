@@ -1,0 +1,39 @@
+['Time Zone:', 'GMT+00:00']
+['IP Address:', '"192.168.1.2"']
+['Current Project Name:', 'controller2']
+['Device Catalog Name:', '1756-L61/B LOGIX5561']
+['Revision No:', '20.019.098']
+['SD Card Files: ', '\\Logix\\CurrentApp\\project2.p5k', '\\Logix\\CurrentApp\\Executive.bin']
+['SD_Load_Mode', 'PROGRAM']
+['SD_Load_Image', 'USER_INITIATED']
+['Time since PLC restart: ', 25630]
+['Desktop Name: ', 'DESKTOP-RSRBUGJ\\safe']
+<?xml version="1.0" encoding="UTF-8" ?>
+<Controller>
+<ExecutiveLoadOption>
+    <ExecFile>\Logix\CurrentApp\Executive.bin</ExecFile>
+</ExecutiveLoadOption>
+<ProgramLoadOption>
+    <ProgramLoadMode>USER_INITIATED</ProgramLoadMode>
+    <LoadFile>\Logix\CurrentApp\project2.p5k</LoadFile>
+</ProgramLoadOption>
+<ControllerModeOption>
+    <ControllerMode>PROGRAM</ControllerMode>
+</ControllerModeOption>
+<VersionControl>
+    <Version>02.020.019.098</Version>
+</VersionControl>
+<FirmwareSupervisor>
+    <UpdateMode>IN_ACTIVE</UpdateMode>
+</FirmwareSupervisor>
+</Controller>ring>
+			<ACproductNameString>LOGIX5561</ACproductNameString>
+            <HWMajorRevision>2</HWMajorRevision>
+            <HWMinorRevision>1</HWMinorRevision>
+		</DeviceIdentity>
+	</DeviceIdentities> 
+	<UserDTMemorySize>2097152</UserDTMemorySize>
+	<UserIOMemorySize>505856</UserIOMemorySize>
+</LogixController>
+
+['ControllerLog: ', [1, 'Project Download Event : Controller Name is controller2']]

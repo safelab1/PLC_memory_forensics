@@ -1,0 +1,39 @@
+['Time Zone:', 'GMT+00:00']
+['IP Address:', '"192.168.1.2"']
+['Current Project Name:', 'project2']
+['Device Catalog Name:', '1756-L61/B LOGIX5561']
+['Revision No:', '20.019.098']
+['SD Card Files: ', '\\Logix\\CurrentApp\\project2.p5k', '\\Logix\\CurrentApp\\Executive.bin']
+['SD_Load_Mode', 'PROGRAM']
+['SD_Load_Image', 'USER_INITIATED']
+['Time since PLC restart: ', 889]
+['Desktop Name: ', 'DESKTOP-RSRBUGJ\\safe']
+<?xml version="1.0" encoding="UTF-8" ?>
+<Controller>
+<ExecutiveLoadOption>
+    <ExecFile>\Logix\CurrentApp\Executive.bin</ExecFile>
+</ExecutiveLoadOption>
+<ProgramLoadOption>
+    <ProgramLoadMode>USER_INITIATED</ProgramLoadMode>
+    <LoadFile>\Logix\CurrentApp\project2.p5k</LoadFile>
+</ProgramLoadOption>
+<ControllerModeOption>
+    <ControllerMode>PROGRAM</ControllerMode>
+</ControllerModeOption>
+<VersionControl>
+    <Version>02.020.019.098</Version>
+</VersionControl>
+<FirmwareSupervisor>
+    <UpdateMode>IN_ACTIVE</UpdateMode>
+</FirmwareSupervisor>
+</Controller>ring>
+			<ACproductNameString>LOGIX5561</ACproductNameString>
+            <HWMajorRevision>2</HWMajorRevision>
+            <HWMinorRevision>1</HWMinorRevision>
+		</DeviceIdentity>
+	</DeviceIdentities> 
+	<UserDTMemorySize>2097152</UserDTMemorySize>
+	<UserIOMemorySize>505856</UserIOMemorySize>
+</LogixController>
+
+['ControllerLog: ', [1, 'Project Download Event : Controller Name is project2'], [2, 'PLC mode change event: New mode is RUN'], [3, 'PLC mode change event: New mode is PROG'], [4, 'Project Download Event : Controller Name is THIS_IS_A_LENGTHY_NAME_FOR_CONTROLLER'], [5, 'Project Download Event : Controller Name is ConName_OUR_CONTROLLER'], [6, 'PLC mode change event: New mode is RUN'], [7, 'PLC mode change event: New mode is PROG'], [8, 'Project Download Event : Controller Name is ConName_OUR_CONTROLLER'], [9, 'PLC mode change event: New mode is RUN'], [10, 'PLC mode change event: New mode is TEST'], [11, 'PLC mode change event: New mode is PROG'], [12, 'PLC mode change event: New mode is RUN'], [13, 'PLC mode change event: New mode is PROG'], [14, 'Project Download Event : Controller Name is project2'], [15, 'PLC mode change event: New mode is RUN'], [16, 'PLC mode change event: New mode is TEST'], [17, 'PLC mode change event: New mode is PROG'], [18, 'PLC mode change event: New mode is RUN'], [19, 'PLC mode change event: New mode is PROG']]

@@ -1,0 +1,12 @@
+ControllerLogs: 
+[1, 'Project Download Event : Controller Name is CONTR1_P0001_Jan21_2']
+[2, 'PLC mode change event: New mode is RUN']
+[3, 'PLC mode change event: New mode is TEST']
+[4, 'PLC mode change event: New mode is PROG']
+[5, 'Project Download Event : Controller Name is CONTR_2_P0002_Jan21']
+[6, 'PLC mode change event: New mode is RUN']
+[7, 'PLC mode change event: New mode is PROG']
+[8, 'Project Download Event : Controller Name is CONTR_3_NEW_PROJECT']
+[9, 'PLC mode change event: New mode is RUN']
+
+
